@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ei70xKfcAqkwFXQ0Vp4i4T7WuZLWceiVWl01QMhgauCO18uS23zk//dM+xw7kmPSKJtWo7yuVK6XEX3bZTakg==",
+  "success": true,
+  "projectFilePath": "/Users/tagirner/Projects/skoropechatanie/skoropechatanie/skoropechatanie.csproj",
+  "expectedPackageFiles": [
+    "/Users/tagirner/.nuget/packages/microsoft.visualstudio.services.nuget.credentialprovider/0.37.0/microsoft.visualstudio.services.nuget.credentialprovider.0.37.0.nupkg.sha512",
+    "/Users/tagirner/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

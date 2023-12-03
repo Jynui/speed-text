@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "мк",
+    "CharactersPerMinute": 19,
+    "CharactersPerSecond": 0.33331730688168965
+  },
+  {
+    "Name": "мк",
+    "CharactersPerMinute": 20,
+    "CharactersPerSecond": 0.0
+  },
+  {
+    "Name": "мк",
+    "CharactersPerMinute": 20,
+    "CharactersPerSecond": 0.0
+  },
+  {
+    "Name": "vr",
+    "CharactersPerMinute": 993,
+    "CharactersPerSecond": 16.0
+  },
+  {
+    "Name": "мн",
+    "CharactersPerMinute": 311,
+    "CharactersPerSecond": 5.0
+  },
+  {
+    "Name": "тагир",
+    "CharactersPerMinute": 311,
+    "CharactersPerSecond": 5.0
+  }
+]

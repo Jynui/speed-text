@@ -1,0 +1,17 @@
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.AssemblyInfo.cs
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/skoropechatanie
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/skoropechatanie.deps.json
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/skoropechatanie.runtimeconfig.json
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/skoropechatanie.dll
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/skoropechatanie.pdb
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.csproj.CopyComplete
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.dll
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/refint/skoropechatanie.dll
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.pdb
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/skoropechatanie.genruntimeconfig.cache
+/Users/tagirner/Projects/skoropechatanie/skoropechatanie/obj/Debug/net7.0/ref/skoropechatanie.dll
